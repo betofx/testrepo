@@ -1,28 +1,19 @@
-# This is a large heading
+# betofx
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in many places
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Read a lot
 
-Here is `some code` in the middle of a sentence.
+### Food
 
-```
-This is
-a block
-of code
-```
+Sushi
+Hummus
+Pastrami
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Contact
 
-![This is an image.](https://www.jhu.edu/assets/themes/machado/assets/images/logos/university-logo-small-horizontal-black-82ccd23e07.png)
+The best way to get in touch with me is [on Twitter](https://twitter.com/)
