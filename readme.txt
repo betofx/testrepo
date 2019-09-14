@@ -1,3 +1,7 @@
 Welcome to My First Repo
 Learning Git is going well so far.
-this is the damned line
+<<<<<< HEAD
+=======
+I added this line in the update-readme branch.
+It's sunny outside today.
+>>>>>>> update-readme
