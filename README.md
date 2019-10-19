@@ -1,19 +1,5 @@
-# betofx
-
-### Geography
-
-I live in many places
-
-### Reading
-
-Read a lot
-
-### Food
-
-Sushi
-Hummus
-Pastrami
-
-### Contact
-
-The best way to get in touch with me is [on Twitter](https://twitter.com/)
+The Alberto Aguirre's guessing game program
+The current date of this file is:
+Sat Oct 19 02:16:30 -05 2019
+The number of lines of the program assigment is:
+21
